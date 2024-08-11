@@ -20,6 +20,7 @@
 <br>
   채범수 - 공부내용 및 모각소 소감 : https://archivision.tistory.com/1
 <br>
+  정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223520609738
 </details>
 
 <details>
