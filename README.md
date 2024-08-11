@@ -76,5 +76,6 @@
 </details>
 <details>
   <summary>8차 모임 (2024년 8월 11일) </summary>
-
+<img width="1440" alt="스크린샷 2024-08-11 오후 9 44 55" src="https://github.com/user-attachments/assets/8293ca57-ef33-4aa9-9f9b-9ad58f861c49">
+  <br>
 </details>
