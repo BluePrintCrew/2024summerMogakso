@@ -50,7 +50,8 @@
 <details>
   <summary>4차 모임 (2024년 7월 30일) </summary>
 <img width="1433" alt="스크린샷 2024-07-30 오후 11 05 15" src="https://github.com/user-attachments/assets/9a4a5835-28cc-417b-bceb-a380f16d7bcc">
-
+<br>
+  이현제 - 공부내용 및 모각소 소감: https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8CJAVA-%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EC%99%80%EC%9D%BC%EB%93%9C-%EC%B9%B4%EB%93%9C
 </details>
 <details>
   <summary>5차 모임 (2024년 7월 31일) - 창업동아리 멘토링 활동 </summary>
