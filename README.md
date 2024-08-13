@@ -65,6 +65,7 @@
   <summary>6차 모임 (2024년 8월 6일) </summary>
 <img width="1435" alt="스크린샷 2024-08-06 오후 9 01 02" src="https://github.com/user-attachments/assets/a4b89247-24e7-4258-98fe-4e676e188261">
   <br>
+  이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8COAuth-2.0
 </details>
 
 </details>
