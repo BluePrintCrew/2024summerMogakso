@@ -76,10 +76,14 @@
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8C%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B4%80%EB%A0%A8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4
 </details>
 
-</details>
 <details>
   <summary>8차 모임 (2024년 8월 11일) </summary>
 <img width="1440" alt="스크린샷 2024-08-11 오후 9 44 55" src="https://github.com/user-attachments/assets/8293ca57-ef33-4aa9-9f9b-9ad58f861c49">
   <br>
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8CDefaultOAuth2UserService-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4
+</details>
+
+<details>
+  <summary>9차 모임 (2024년 8월 13일) </summary>
+
 </details>
