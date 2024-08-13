@@ -73,6 +73,7 @@
   <summary>7차 모임 (2024년 8월 9일) </summary>
 <img width="1440" alt="스크린샷 2024-08-09 오후 9 12 05" src="https://github.com/user-attachments/assets/b879e7c0-88b6-4be0-a390-9aebdc19b9d3">
   <br>
+  이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8C%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B4%80%EB%A0%A8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4
 </details>
 
 </details>
