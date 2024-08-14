@@ -87,4 +87,5 @@
   <summary>9차 모임 (2024년 8월 13일) </summary>
 <img width="1440" alt="스크린샷 2024-08-13 오후 9 05 14" src="https://github.com/user-attachments/assets/585dbac3-051f-4d4c-bde2-08d9bab72242">
   <br>
+  이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8C%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94
 </details>
