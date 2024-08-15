@@ -22,7 +22,7 @@
 <br>
   정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223520609738
   <br>
-  정현민 - 공부내용 및 모각소 소감 : [https://blog.naver.com/raeogi/223520609738](https://velog.io/@jhm991231/Hackers-News-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+  정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/Hackers-News-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0
 </details>
 
 <details>
@@ -47,7 +47,7 @@
 <br>
   이현제 - 공부내용 및 모각소 소감: https://velog.io/@guswp320/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-5%EC%9B%9424%EC%9D%BC
   <br>
-  정현민 - 공부내용 및 모각소 소감: [https://velog.io/@guswp320/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-5%EC%9B%9424%EC%9D%BC](https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-React%EC%97%90%EC%84%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+  정현민 - 공부내용 및 모각소 소감: https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-React%EC%97%90%EC%84%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
 
 </details>
 
