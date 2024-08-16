@@ -21,7 +21,7 @@
   채범수 - 공부내용 및 모각소 소감 : https://archivision.tistory.com/1
 <br>
   정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223520609738
-  <br>
+<br>
   정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/Hackers-News-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0
 </details>
 
@@ -35,6 +35,7 @@
 <br>
   채범수 - 공부내용 및 모각소 소감 : https://archivision.tistory.com/2
 <br>
+  정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8CHackers-News-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B02
 </details>
 
 <details>
