@@ -97,5 +97,6 @@
 
 <details>
   <summary>10차 모임 (2024년 8월 18일) </summary>
-
+<img width="1440" alt="스크린샷 2024-08-18 오후 9 28 04" src="https://github.com/user-attachments/assets/1dc4b15b-1d67-40f7-978b-a06da6fda775">
+  <br>
 </details>
