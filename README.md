@@ -85,6 +85,8 @@
 <img width="1440" alt="스크린샷 2024-08-09 오후 9 12 05" src="https://github.com/user-attachments/assets/b879e7c0-88b6-4be0-a390-9aebdc19b9d3">
   <br>
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8C%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B4%80%EB%A0%A8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4
+    <br>
+  손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/31
 </details>
 
 <details>
@@ -92,6 +94,8 @@
 <img width="1440" alt="스크린샷 2024-08-11 오후 9 44 55" src="https://github.com/user-attachments/assets/8293ca57-ef33-4aa9-9f9b-9ad58f861c49">
   <br>
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8CDefaultOAuth2UserService-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4
+    <br>
+  손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/32
 </details>
 
 <details>
@@ -99,10 +103,15 @@
 <img width="1440" alt="스크린샷 2024-08-13 오후 9 05 14" src="https://github.com/user-attachments/assets/585dbac3-051f-4d4c-bde2-08d9bab72242">
   <br>
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8C%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94
+  <br>
+  손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/33
 </details>
 
 <details>
   <summary>10차 모임 (2024년 8월 18일) </summary>
 <img width="1440" alt="스크린샷 2024-08-18 오후 9 28 04" src="https://github.com/user-attachments/assets/1dc4b15b-1d67-40f7-978b-a06da6fda775">
   <br>
+
+    <br>
+  손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/34
 </details>
