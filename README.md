@@ -114,4 +114,6 @@
 
     <br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/34
+  <br>
+  이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8C%EC%83%81%ED%92%88-%EB%93%B1%EB%A1%9D-%EB%B0%8F-%EC%A1%B0%ED%9A%8C-%EA%B5%AC%ED%98%84
 </details>
