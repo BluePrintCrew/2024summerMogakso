@@ -120,6 +120,6 @@
 
 <details>
   <summary>11차 모임 (2024년 8월 20일) </summary>
- ![8월23일 모각소](https://github.com/user-attachments/assets/5f41961c-ae81-4e20-a443-bf67317148a1)
+  <img width="1440" alt="스크린샷 2024-08-23 오후 9 28 04" src="https://github.com/user-attachments/assets/5f41961c-ae81-4e20-a443-bf67317148a1">
   <br>
 </details>
