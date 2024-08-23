@@ -126,5 +126,6 @@
 
 <details>
   <summary>12차 모임 (2024년 8월 23일) </summary>
-
+![KakaoTalk_Photo_2024-08-23-21-07-39](https://github.com/user-attachments/assets/5ca62ce7-baf0-4cbf-b3ce-97773184ecd5)
+  <br>
 </details>
