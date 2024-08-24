@@ -59,6 +59,8 @@
   이현제 - 공부내용 및 모각소 소감: https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8CJAVA-%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EC%99%80%EC%9D%BC%EB%93%9C-%EC%B9%B4%EB%93%9C
   <br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/28
+  <br>
+  정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-React%EB%A1%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B02
 </details>
 <details>
   <summary>5차 모임 (2024년 7월 31일) - 창업동아리 멘토링 활동 </summary>
@@ -77,6 +79,8 @@
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8COAuth-2.0
   <br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/30
+  <br>
+  정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-React-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EA%B8%B0
 </details>
 
 </details>
@@ -87,6 +91,8 @@
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8C%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B4%80%EB%A0%A8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4
     <br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/31
+  <br>
+  정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A1%9C-%EC%A3%BC%EB%AC%B8%ED%95%98%EA%B8%B0-%EB%B2%84%ED%8A%BC-%ED%81%B4%EB%A6%AD-%EC%8B%9C-%EC%A3%BC%EB%AC%B8-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A1%9C-%EB%B3%B4%EB%82%B4%EA%B8%B0
 </details>
 
 <details>
@@ -96,6 +102,8 @@
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8CDefaultOAuth2UserService-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4
     <br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/32
+  <br>
+  정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-Hackers-News-Client-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B03
 </details>
 
 <details>
@@ -105,6 +113,8 @@
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8C%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94
   <br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/33
+  <br>
+  정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-API-%EC%9A%94%EC%B2%AD%EC%9D%84-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-Fetch-API-Axios-React-Query-%EB%B9%84%EA%B5%90
 </details>
 
 <details>
