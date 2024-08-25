@@ -149,6 +149,6 @@
   <summary>12차 모임 (2024년 8월 23일) </summary>
 <img width="1252" alt="스크린샷 2024-08-23 오후 9 13 10" src="https://github.com/user-attachments/assets/4c744a03-15fd-424b-9721-2f40c1b74b79">
   <br>
-  이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C2024springdoc%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-API-%EB%AA%85%EC%84%B8-%EC%9E%90%EB%8F%99%EA%B4%80%EB%A6%AC
+  이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C2024%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-UDPTCP
 </details>
 </details>
