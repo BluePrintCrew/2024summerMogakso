@@ -115,6 +115,8 @@
   정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-Hackers-News-Client-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B03
   <br>
   채범수 - 공부내용 및 모각소 소감 : https://velog.io/@tayobus/GitHub-Actions%EB%A1%9C-Docker-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-AWS-ECR%EC%97%90-%ED%91%B8%EC%8B%9C%ED%95%98%EA%B8%B02024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C
+  <br>
+  정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223544521319
 </details>
 
 <details>
@@ -128,6 +130,8 @@
   정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-API-%EC%9A%94%EC%B2%AD%EC%9D%84-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-Fetch-API-Axios-React-Query-%EB%B9%84%EA%B5%90
   <br>
   채범수 - 공부내용 및 모각소 소감 : https://velog.io/@tayobus/%ED%85%8C%EB%9D%BC%ED%8F%BC%EC%9C%BC%EB%A1%9C-AWS-ECR-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0
+  <br>
+  정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223546946563
 </details>
 
 <details>
@@ -141,6 +145,8 @@
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8C%EC%83%81%ED%92%88-%EB%93%B1%EB%A1%9D-%EB%B0%8F-%EC%A1%B0%ED%9A%8C-%EA%B5%AC%ED%98%84
   <br>
   채범수 - 공부내용 및 모각소 소감 : https://velog.io/@tayobus/EKS-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-1-EKS-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%83%9D%EC%84%B1-2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C
+  <br>
+  정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223552222163
 </details>
 
 <details>
@@ -163,6 +169,8 @@
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/36
   <br>
   채범수 - 공부내용 및 모각소 소감 : https://velog.io/@tayobus/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80-%EB%B0%B1%EC%97%94%EB%93%9C%EC%9D%98-%EB%B0%B0%ED%8F%AC-%EC%A0%84%EB%9E%B5-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%ED%99%94%EC%99%80-CloudFront-%ED%99%9C%EC%9A%A9
+ <br>
+  정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223558527007
 </details>
 
 <details>
