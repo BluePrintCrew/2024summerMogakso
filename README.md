@@ -182,5 +182,7 @@
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/37
   <br>
   채범수 - 공부내용 및 모각소 소감 : https://velog.io/@tayobus/Route-53%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B4%80%EB%A6%AC%EC%99%80-%ED%8A%B8%EB%9E%98%ED%94%BD-%EB%9D%BC%EC%9A%B0%ED%8C%85-2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C
+  <br>
+  정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223560392654
 </details>
 
