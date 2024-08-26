@@ -106,6 +106,8 @@
   정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A1%9C-%EC%A3%BC%EB%AC%B8%ED%95%98%EA%B8%B0-%EB%B2%84%ED%8A%BC-%ED%81%B4%EB%A6%AD-%EC%8B%9C-%EC%A3%BC%EB%AC%B8-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A1%9C-%EB%B3%B4%EB%82%B4%EA%B8%B0
   <br>
   채범수 - 공부내용 및 모각소 소감 : https://velog.io/@tayobus/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%EB%8F%84%EC%BB%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%99%94%ED%95%98%EA%B8%B02024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C
+  <br>
+  정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223542518731
 </details>
 
 <details>
