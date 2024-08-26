@@ -66,6 +66,8 @@
   정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-React%EB%A1%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B02
   <br>
   채범수 - 공부내용 및 모각소 소감 : https://velog.io/@tayobus/Bash-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C
+  <br>
+  정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223531071851
 </details>
 <details>
   <summary>5차 모임 (2024년 7월 31일) - 창업동아리 멘토링 활동 </summary>
