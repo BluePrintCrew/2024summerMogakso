@@ -88,6 +88,8 @@
   정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-React-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EA%B8%B0
   <br>
   채범수 - 공부내용 및 모각소 소감 : https://velog.io/@tayobus/Git%EC%97%90-%EA%B4%80%ED%95%B4-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EA%B2%83%EB%93%A4-2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C
+  <br>
+  정래혁 - 공부내용 및 모각소 소감 : https://blog.naver.com/raeogi/223538835628
 </details>
 
 </details>
