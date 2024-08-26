@@ -62,6 +62,8 @@
   이현제 - 공부내용 및 모각소 소감: https://velog.io/@guswp320/2024%EB%AA%A8%EA%B0%81%EC%86%8CJAVA-%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EC%99%80%EC%9D%BC%EB%93%9C-%EC%B9%B4%EB%93%9C
   <br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/28
+   <br>
+  손영현(추가 공부) - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/29
   <br>
   정현민 - 공부내용 및 모각소 소감 : https://velog.io/@jhm991231/2024-%ED%95%98%EA%B3%84-%EB%AA%A8%EA%B0%81%EC%86%8C-React%EB%A1%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B02
   <br>
@@ -72,8 +74,6 @@
 <details>
   <summary>5차 모임 (2024년 7월 31일) - 창업동아리 멘토링 활동 </summary>
 <img width="1440" alt="스크린샷 2024-07-31 오후 4 51 25" src="https://github.com/user-attachments/assets/c812073f-6076-4a74-b3c4-b8c490af8c47">
-    <br>
-  손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/29
   <br>
 회의록: https://development-diary-0h.tistory.com/27
 </details>
